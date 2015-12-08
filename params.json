@@ -1,1 +1,1 @@
-{"name":"euphemism.github.io","tagline":"site.","body":"### Welcome to my user page\r\nApologies for the emptiness, it is under construction.","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{"name":"euphemism.github.io","tagline":"site.","body":"### Welcome to my user page\r\nApologies for the emptiness, it is under construction.\r\n```python\r\nif __name__ == '__main__':\r\n    print('Welcome.')\r\n```","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
